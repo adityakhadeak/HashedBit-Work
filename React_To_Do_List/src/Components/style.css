@@ -1,0 +1,16 @@
+/* Navigation Bar */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #007bff;
+    color: white;
+    padding: 1rem;
+  }
+  
+  nav h1 {
+    margin: 0;
+  }
+  
+  /* AllNotes component */
+  
